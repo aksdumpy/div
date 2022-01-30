@@ -1,0 +1,6 @@
+i am alone ! 
+git vs github 
+
+git =>    version control system 
+github => Cloud hosting paltform ....code host karte hai 
+git labs ......
